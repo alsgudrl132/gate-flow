@@ -14,3 +14,60 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/min/.
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-16 18:27:03.837
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-11-16 18:33:17.297 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -keyring /Users/min/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/min/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-16 18:33:24.350
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-16 18:33:24.351
+!MESSAGE Log4j2 initialized with config file /Users/min/Desktop/parking_embedded_web/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-16 18:33:26.657
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-11-16 18:34:14.730
+!MESSAGE Indexed 'embedded' (19 sources, 81 headers) in 2.49 sec: 4,314 declarations; 18,192 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)
+!SESSION 2025-11-16 18:34:44.827 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -keyring /Users/min/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/min/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-11-16 18:34:48.612
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-16 18:34:51.790
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-16 18:34:51.790
+!MESSAGE Log4j2 initialized with config file /Users/min/Desktop/parking_embedded_web/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-16 18:34:53.796
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-11-16 18:35:37.385 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -keyring /Users/min/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/min/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-11-16 18:35:40.896
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-11-16 18:35:44.235
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-11-16 18:35:44.235
+!MESSAGE Log4j2 initialized with config file /Users/min/Desktop/parking_embedded_web/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-11-16 18:35:46.302
+!MESSAGE Started RMI Server, listening on port 41337
